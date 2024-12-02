@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/%3Crepo-name%3E/static/css/main.760795dc.css",
-    "main.js": "/%3Crepo-name%3E/static/js/main.f307c627.js",
-    "static/js/453.98f5f170.chunk.js": "/%3Crepo-name%3E/static/js/453.98f5f170.chunk.js",
-    "index.html": "/%3Crepo-name%3E/index.html",
-    "main.760795dc.css.map": "/%3Crepo-name%3E/static/css/main.760795dc.css.map",
-    "main.f307c627.js.map": "/%3Crepo-name%3E/static/js/main.f307c627.js.map",
-    "453.98f5f170.chunk.js.map": "/%3Crepo-name%3E/static/js/453.98f5f170.chunk.js.map"
+    "main.css": "/https---github.com-AghaIrtiza-WebDevelopment/static/css/main.760795dc.css",
+    "main.js": "/https---github.com-AghaIrtiza-WebDevelopment/static/js/main.deead01b.js",
+    "static/js/453.98f5f170.chunk.js": "/https---github.com-AghaIrtiza-WebDevelopment/static/js/453.98f5f170.chunk.js",
+    "index.html": "/https---github.com-AghaIrtiza-WebDevelopment/index.html",
+    "main.760795dc.css.map": "/https---github.com-AghaIrtiza-WebDevelopment/static/css/main.760795dc.css.map",
+    "main.deead01b.js.map": "/https---github.com-AghaIrtiza-WebDevelopment/static/js/main.deead01b.js.map",
+    "453.98f5f170.chunk.js.map": "/https---github.com-AghaIrtiza-WebDevelopment/static/js/453.98f5f170.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.760795dc.css",
-    "static/js/main.f307c627.js"
+    "static/js/main.deead01b.js"
   ]
 }
